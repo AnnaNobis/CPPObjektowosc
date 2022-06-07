@@ -1,0 +1,19 @@
+﻿  CarProste.cpp
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\CarProste.cpp(1,10): fatal error C1083: Cannot open include file: 'car.hpp': No such file or directory
+  ZadCarprostawersja.cpp
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,2): error C2065: 'Car': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,6): error C2146: syntax error: missing ';' before identifier 'audi'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,11): error C2065: 'Engine': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,18): error C2146: syntax error: missing ')' before identifier 'Type'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,6): error C3861: 'audi': identifier not found
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,18): error C2146: syntax error: missing ';' before identifier 'Type'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,22): error C2059: syntax error: ')'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(7,18): error C2065: 'Type': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(8,2): error C2065: 'Car': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(8,6): error C2146: syntax error: missing ';' before identifier 'audi'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(8,11): error C2653: 'EngineType': is not a class or namespace name
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(8,23): error C2065: 'Diesel': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(8,6): error C3861: 'audi': identifier not found
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(9,2): error C2065: 'audi': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCarprostawersja\ZadCarprostawersja.cpp(10,2): error C2065: 'audi': undeclared identifier
+  Generating Code...

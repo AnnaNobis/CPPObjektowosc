@@ -1,0 +1,4 @@
+﻿  Student.cpp
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadStudent2\Student.cpp(23,6): error C2065: 'index': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadStudent2\Student.cpp(25,10): error C2065: 'index': undeclared identifier
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadStudent2\Student.cpp(26,3): error C2065: 'index': undeclared identifier
