@@ -1,0 +1,9 @@
+﻿  Car.cpp
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(22,28): error C2143: syntax error: missing ';' before 'const'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(22,28): error C2761: 'int Car::getProductionYear': redeclaration of member is not allowed
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(22,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(22,35): error C2059: syntax error: ')'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(23,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\anian\source\kursSDA\CPPobjektowosc\CPPObjectowosc\ZadCar\Car.cpp(23,1): error C2447: '{': missing function header (old-style formal list?)
+  ZadCar.cpp
+  Generating Code...

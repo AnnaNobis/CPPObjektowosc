@@ -3,6 +3,14 @@
 #include <iostream>
 
 int Car::Engine::count = 0;
+const std::string location = "PL";
+
+
+
+const std::string Car::location()
+{
+	return "PL";
+}
 
 Car::Car(EngineType engineType, double size)
 {
@@ -10,6 +18,12 @@ Car::Car(EngineType engineType, double size)
 	engine.setSize(size);
 	vin = Car::Engine::generateVIN(engine);
 }
+
+int Car::getProductionYear const ()
+{
+	return productionYear;
+}
+
 
 void Car::annualService()
 {
@@ -23,6 +37,7 @@ std::string Car::getVIN()
 {
 	return vin;
 }
+
 std::string Car::Engine::generateVIN(Engine engine)
 {
 	std::string result = "";
